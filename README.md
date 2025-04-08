@@ -9,8 +9,9 @@ This is a simple and clean **Weather App** I built using **React.js**, **Vite**,
 
 - ⚛️ React (with Vite for lightning-fast setup)
 - 🎨 Tailwind CSS (for styling)
-- 🌍 Weather API (like OpenWeatherMap)
+- 🌍 Weather API (OpenWeatherMap)
 - 💡 Optional: Shadcn UI
+- 🚀Deployment : Vercel
 
 ---
 
