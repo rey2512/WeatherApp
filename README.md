@@ -1,4 +1,4 @@
-# WeatherWebApp# 🌦️ Weather Web App
+# WeatherWebApp# 🌦️ 
 
 Hey there! 👋  
 This is a simple and clean **Weather App** I built using **React.js**, **Vite**, and **Tailwind CSS**. You can search for any city and get real-time weather info — temperature, humidity, wind speed, and more!
@@ -18,10 +18,10 @@ This is a simple and clean **Weather App** I built using **React.js**, **Vite**,
 
 Wanna try it out locally? Just follow these steps:
 
-```bash
+
 # Step 1: Clone the repo
 git clone 
-cd weather
+cd weatherApp
 
 # Step 2: Install the dependencies
 npm install
